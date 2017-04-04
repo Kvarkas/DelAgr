@@ -1,5 +1,5 @@
 # DelAgr
-tampermonkey userscript to remove accept agreement on LJ
+![][ico1] tampermonkey userscript to remove accept agreement on LJ![][ico2]
 
 ## Installation
 
@@ -13,6 +13,9 @@ tampermonkey userscript to remove accept agreement on LJ
 	* UC Browser - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=ucweb).
 
 2. Install:
+
 Click this link to [install][ljda-raw]
 
 [ljda-raw]: https://github.com/Kvarkas/DelAgr/blob/master/LJDontAcept.js
+[ico1]:https://upload.wikimedia.org/wikipedia/commons/f/fc/Greasemonkey.svg
+[ico2]:https://cdn0.iconfinder.com/data/icons/socialnetworkspro/24/LiveJournal.png
