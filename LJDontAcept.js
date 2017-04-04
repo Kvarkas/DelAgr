@@ -5,7 +5,8 @@
 // @description  Continue using LJ without acepting new terms
 // @author       Kvark
 // @match        http*://*.livejournal.com/*
-// @grant        GM_log
+// @updateURL    https://raw.githubusercontent.com/Kvarkas/DelAgr/master/LJDontAcept.js
+// @downloadURL  https://raw.githubusercontent.com/Kvarkas/DelAgr/master/LJDontAcept.js
 // @run-at       document-idle
 // ==/UserScript==
 (function() {
