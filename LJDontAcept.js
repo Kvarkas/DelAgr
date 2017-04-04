@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LJ dont acept agreement
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Kvarkas
 // @version      0.1
 // @description  Continue using LJ without acepting new terms
 // @author       Kvark
