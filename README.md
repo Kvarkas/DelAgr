@@ -43,6 +43,6 @@
 	* Click this link to [install][ljda-raw]
 
 # Use at your own peril.
-[ljda-raw]: https://github.com/Kvarkas/DelAgr/blob/master/LJDontAcept.js
+[ljda-raw]: https://raw.githubusercontent.com/Kvarkas/DelAgr/blob/master/LJDontAcept.js
 [ico1]:https://upload.wikimedia.org/wikipedia/commons/f/fc/Greasemonkey.svg
 [ico2]:https://cdn0.iconfinder.com/data/icons/socialnetworkspro/24/LiveJournal.png
