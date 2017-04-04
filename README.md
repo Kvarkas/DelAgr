@@ -1,10 +1,11 @@
-# DelAgr
-Русский
+[ Русский ]
+===========
+
 ![][ico1] Это tampermonkey пользовательский скрипт убирающий окно соглашения в LJ без его принятия![][ico2]
 
 ## Установка
 
-1. Уюедитесь что у вас есть расширение поддерживающее пользовательские скрипты в вашем браузере (эти инструкции относятся к последним версиям браузеров):
+1. Убедитесь что у вас есть расширение поддерживающее пользовательские скрипты в вашем браузере (эти инструкции относятся к последним версиям браузеров):
 
 	* Firefox - установите [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
 	* Chrome - установите [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome) или [NinjaKit](https://chrome.google.com/webstore/detail/gpbepnljaakggeobkclonlkhbdgccfek).
@@ -21,7 +22,9 @@
 
 ==============================================================
 
-English
+[ English ]
+===========
+
 ![][ico1] This is a tampermonkey userscript to remove agreement on LJ without acepting it ![][ico2]
 
 ## Installation
