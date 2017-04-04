@@ -1,5 +1,28 @@
 # DelAgr
-![][ico1] tampermonkey userscript to remove accept agreement on LJ![][ico2]
+Русский
+![][ico1] Это tampermonkey пользовательский скрипт убирающий окно соглашения в LJ без его принятия![][ico2]
+
+## Установка
+
+1. Уюедитесь что у вас есть расширение поддерживающее пользовательские скрипты в вашем браузере (эти инструкции относятся к последним версиям браузеров):
+
+	* Firefox - установите [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
+	* Chrome - установите [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome) или [NinjaKit](https://chrome.google.com/webstore/detail/gpbepnljaakggeobkclonlkhbdgccfek).
+	* Opera - установите [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=opera) или [Violent Monkey](https://addons.opera.com/en/extensions/details/violent-monkey/).
+	* Safari - установите [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=safari) или [NinjaKit](http://ss-o.net/safari/extension/NinjaKit.safariextz).
+	* Dolphin - установите [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=dolphin).
+	* UC Browser - установите [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=ucweb).
+
+2. Установка:
+
+	* Нажмите на эту ссылку для [инсталяции][ljda-raw]
+
+# Используйте на свой страх и риск!
+
+==============================================================
+
+English
+![][ico1] This is a tampermonkey userscript to remove agreement on LJ without acepting it ![][ico2]
 
 ## Installation
 
@@ -14,8 +37,9 @@
 
 2. Install:
 
-Click this link to [install][ljda-raw]
+	* Click this link to [install][ljda-raw]
 
+# Use at your own peril.
 [ljda-raw]: https://github.com/Kvarkas/DelAgr/blob/master/LJDontAcept.js
 [ico1]:https://upload.wikimedia.org/wikipedia/commons/f/fc/Greasemonkey.svg
 [ico2]:https://cdn0.iconfinder.com/data/icons/socialnetworkspro/24/LiveJournal.png
