@@ -7,6 +7,7 @@
 // @match        http*://*.livejournal.com/*
 // @updateURL    https://raw.githubusercontent.com/Kvarkas/DelAgr/master/LJDontAcept.js
 // @downloadURL  https://raw.githubusercontent.com/Kvarkas/DelAgr/master/LJDontAcept.js
+// @grant        none
 // @run-at       document-idle
 // ==/UserScript==
 (function() {
